@@ -1,6 +1,6 @@
 # projectone_bigdata
 
-Package name is :  projectone
+Package name is : projectone\n
 Classes inside that package are
 1. CountryCount - question 1
 2. PaymentTypeCount - question - 2
